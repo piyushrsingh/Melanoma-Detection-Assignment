@@ -1,6 +1,6 @@
 # Melanoma-Detection-Assignment
 # Project Name
-> In this assignment, we built a multiclass classification model using a custom convolutional neural network in TensorFlow. 
+> In this assignment, we will built a multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 
 ## Table of Contents
